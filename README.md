@@ -26,11 +26,11 @@ This tool combines the power of:
 
 ## 📸 Screenshot
 
-![SEO App Screenshot1](screenshot1.png)
-![SEO App Screenshot2](screenshot2.png)
-![SEO App Screenshot3](screenshot3.png)
-![SEO App Screenshot4](screenshot4.png)
-![SEO App Screenshot5](screenshot5.png)
+![SEO App Screenshot1](https://raw.githubusercontent.com/Divyansh8791/AI-seo-meta-generator/main/screenshot1.PNG)
+![SEO App Screenshot2](https://raw.githubusercontent.com/Divyansh8791/AI-seo-meta-generator/main/screenshot2.png)
+![SEO App Screenshot3](https://raw.githubusercontent.com/Divyansh8791/AI-seo-meta-generator/main/screenshot3.png)
+![SEO App Screenshot4](https://raw.githubusercontent.com/Divyansh8791/AI-seo-meta-generator/main/screenshot4.png)
+![SEO App Screenshot5](https://raw.githubusercontent.com/Divyansh8791/AI-seo-meta-generator/main/screenshot5.png)
 
 ---
 
