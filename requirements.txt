@@ -1,0 +1,10 @@
+gradio>=4.15.0
+requests
+beautifulsoup4
+PyMuPDF
+python-docx
+spacy
+pandas
+python-dotenv
+langchain
+langchain-google-genai
