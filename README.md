@@ -25,12 +25,16 @@ This tool combines the power of:
 ---
 
 ## 📸 Screenshot
-
-![SEO App Screenshot1](https://raw.githubusercontent.com/Divyansh8791/AI-seo-meta-generator/main/screenshot1.PNG)
-![SEO App Screenshot2](https://raw.githubusercontent.com/Divyansh8791/AI-seo-meta-generator/main/screenshot2.png)
-![SEO App Screenshot3](https://raw.githubusercontent.com/Divyansh8791/AI-seo-meta-generator/main/screenshot3.png)
-![SEO App Screenshot4](https://raw.githubusercontent.com/Divyansh8791/AI-seo-meta-generator/main/screenshot4.png)
-![SEO App Screenshot5](https://raw.githubusercontent.com/Divyansh8791/AI-seo-meta-generator/main/screenshot5.png)
+**1).**
+![SEO App Screenshot1](https://github.com/Divyansh8791/AI-seo-meta-generator/blob/main/screenshot1.PNG)
+**2).**
+![SEO App Screenshot2](https://github.com/Divyansh8791/AI-seo-meta-generator/blob/main/screenshot2.PNG)
+**3).**
+![SEO App Screenshot3](https://github.com/Divyansh8791/AI-seo-meta-generator/blob/main/screenshot3.PNG)
+**4).**
+![SEO App Screenshot4](https://github.com/Divyansh8791/AI-seo-meta-generator/blob/main/screenshot4.PNG)
+**5).**
+![SEO App Screenshot5](https://github.com/Divyansh8791/AI-seo-meta-generator/blob/main/screenshot5.PNG)
 
 ---
 
